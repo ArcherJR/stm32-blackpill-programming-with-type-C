@@ -30,7 +30,7 @@ file > prefences > Additional boards manager URLs > paste this:
 https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
 `
 
-![Arduino settings](Arduino%20settings.png)
+![Arduino settings](Arduino%20Settings.png)
 
 *PlatformIO*
 
@@ -40,4 +40,4 @@ open platformıo.ini file and add this:
 upload_protocol = dfu
 `
 
-![PlatformIO settings](PlatformIO%20Settings.png)
+![PlatformIO settings](PlatformIO%20settings.png)
