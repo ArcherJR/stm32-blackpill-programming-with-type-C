@@ -22,7 +22,7 @@ I cant find enough source for stm32f401ceu6 dfu programming so I had to learn it
 
 # IDE konfigürasyonu / IDE configuration
 
-*ARDUINO IDE*
+## ARDUINO IDE
 
 file > prefences > Additional boards manager URLs > paste this: 
 
@@ -34,7 +34,7 @@ https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectron
 
 <h1></h1>
 
-*PlatformIO*
+## PlatformIO
 
 open platformıo.ini file and add this:
 
