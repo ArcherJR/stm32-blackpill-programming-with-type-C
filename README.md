@@ -29,3 +29,5 @@ file > prefences > Additional boards manager URLs > paste this:
 `
 https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectronics_index.json
 `
+
+![Arduino settings](Arduino\ settings.png)
