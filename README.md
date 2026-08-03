@@ -57,6 +57,8 @@ Bilgisayarınızı yeniden başlatın.
 
 Vscode'u platformIO'yu yada ArduinoIDE'yi güncelleyin.
 
+<h1></h1>
+
 *EN:* If it appears to have entered DFU mode but the code isn't loading, remove it from the breadboard
 
 Ensure your hands aren't touching anything other than the button
