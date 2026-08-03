@@ -32,6 +32,8 @@ https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectron
 
 ![Arduino settings](Arduino%20Settings.png)
 
+<h1></h1>
+
 *PlatformIO*
 
 open platformıo.ini file and add this:
