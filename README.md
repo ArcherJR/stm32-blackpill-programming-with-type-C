@@ -47,6 +47,6 @@ upload_protocol = dfu
 
 # Bazı problemlerin çözümü / Solution to some problems
 
-*TR:* eğer dfu moduna girmiş gibi gözüküyor fakat kod yüklenmiyorsa breadboard un üzerinden çıkarın ellerinizi buton dışında bir yere değdirmeyin kablonun veri aktarımı desteklediğinden emin olun bilgisayarınızı yeniden başlatın vscode u platformIO yu yada ArduinoIDE yi güncelleyin 
+*TR:* Eğer dfu moduna girmiş gibi gözüküyor fakat kod yüklenmiyorsa breadboard un üzerinden çıkarın ellerinizi buton dışında bir yere değdirmeyin kablonun veri aktarımı desteklediğinden emin olun bilgisayarınızı yeniden başlatın vscode u platformIO yu yada ArduinoIDE yi güncelleyin 
 
 *EN:* If it appears to have entered DFU mode but the code isn't loading, remove it from the breadboard, ensure your hands aren't touching anything other than the button, verify that the cable supports data transfer, restart your computer, and update VS Code, PlatformIO, or the Arduino IDE.
