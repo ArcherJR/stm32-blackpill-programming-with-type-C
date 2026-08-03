@@ -44,6 +44,7 @@ upload_protocol = dfu
 
 ![PlatformIO settings](PlatformIO%20settings.png)
 
+<h1></h1>
 
 # Bazı problemlerin çözümü / Solution to some problems
 
