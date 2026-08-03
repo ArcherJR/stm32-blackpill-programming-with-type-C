@@ -31,3 +31,13 @@ https://github.com/stm32duino/BoardManagerFiles/raw/main/package_stmicroelectron
 `
 
 ![Arduino settings](Arduino%20Settings.png)
+
+*PlatformIO*
+
+open platformıo.ini file and add this:
+
+`
+upload_protocol = dfu
+`
+
+![PlatformIO settings](PlatformIO%20Settings.png)
